@@ -51,6 +51,22 @@ const Data = [
     name: 'Kommunitas',
     link: 'https://kommunitas.net/',
   },
+  {
+    name: 'KCCPad',
+    link: 'https://kccpad.io/',
+  },
+  {
+    name: 'TronPad',
+    link: 'https://tronpad.network/',
+  },
+  {
+    name: 'velaspad',
+    link: 'https://velaspad.io/',
+  },
+  {
+    name: 'adapad',
+    link: 'https://adapad.io/',
+  },
 ];
 
 export default Data;
