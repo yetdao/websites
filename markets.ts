@@ -23,6 +23,14 @@ const Data = [
     name: 'cryptorank',
     link: 'https://cryptorank.io/',
   },
+  {
+    name: 'glassnode',
+    link: 'https://glassnode.com/',
+  },
+  {
+    name: 'Dune',
+    link: 'https://dune.com/',
+  },
 ];
 
 export default Data;
