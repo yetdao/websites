@@ -15,6 +15,10 @@ const Data = [
     name: 'airdropbob',
     link: 'https://www.airdropbob.com/',
   },
+  {
+    name: 'earndrop',
+    link: 'https://earndrop.io/',
+  },
 ];
 
 export default Data;
